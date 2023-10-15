@@ -1,5 +1,23 @@
 # Sistema de Eleição de Líderes - README
 
+## Boas-Vindas
+
+Bem-vindo ao Sistema de Eleição de Líderes! Este programa foi desenvolvido para facilitar o processo de eleições de líderes escolares, fornecendo uma plataforma fácil de usar para votação e geração de relatórios. Com este sistema, você pode gerenciar eleições de forma eficiente e garantir a precisão dos resultados.
+
+## Direitos Autorais
+
+Este programa é distribuído sob a Licença MIT, o que significa que você tem o direito de usá-lo, modificá-lo e distribuí-lo livremente. No entanto, pedimos que você siga as orientações a seguir:
+
+- Ao usar este programa, cite o desenvolvedor original e forneça um link para a fonte original sempre que possível.
+
+- Você pode modificar o programa de acordo com suas necessidades, mas todas as versões derivadas devem manter uma atribuição ao desenvolvedor original.
+
+- Este programa é fornecido "no estado em que se encontra", sem garantias de qualquer tipo. O desenvolvedor não se responsabiliza por quaisquer danos ou perdas decorrentes do uso deste programa.
+
+- Ao distribuir versões modificadas deste programa, você deve incluir uma cópia da Licença MIT para que os destinatários saibam seus direitos.
+
+Agradecemos por respeitar essas diretrizes enquanto usa e compartilha o Sistema de Eleição de Líderes.
+
 ## Requisitos
 
 Antes de iniciar a instalação e uso do Sistema de Eleição de Líderes, certifique-se de que os seguintes requisitos estejam atendidos:
