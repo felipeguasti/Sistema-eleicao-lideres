@@ -1,0 +1,2 @@
+python eleicoes.py
+exit
