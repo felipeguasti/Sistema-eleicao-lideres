@@ -58,6 +58,6 @@ Lembre-se de que é importante seguir todas as etapas de instalação e configur
 
 ## Problemas e Suporte
 
-Se você encontrar algum problema durante a instalação ou uso do Sistema de Eleição de Líderes, ou se precisar de suporte adicional, sinta-se à vontade para entrar em contato comigo em felipe.guasti@educador.edu.es.gov.br ou visite meu instagram no link instagram.com/felipeguasti/.
+Se você encontrar algum problema durante a instalação ou uso do Sistema de Eleição de Líderes, ou se precisar de suporte adicional, sinta-se à vontade para entrar em contato comigo em felipe.guasti@educador.edu.es.gov.br ou visite meu instagram no link http://www.instagram.com/felipeguasti/.
 
 Agradeço por escolher o meu programa e espero que ele atenda às suas necessidades. Boas eleições!
